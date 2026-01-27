@@ -45,8 +45,7 @@ yolo-v8-realtime-object-detection/
 ### 1️⃣ Clone the Repository
 
 
-git clone https://github.com/your-username/yolo-v8-realtime-object-detection.git
-cd yolo-v8-realtime-object-detection
+https://github.com/Kpellehboy/Real-Time-Object-Detection-using-YOLOv8.git
 
 
 ### 2️⃣ Install Dependencies
@@ -89,4 +88,5 @@ Computer Science Student
 ## 📄 License
 
 This project is open-source and available for educational and portfolio purposes.
+
 
