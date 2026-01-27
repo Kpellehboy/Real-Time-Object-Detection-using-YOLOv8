@@ -37,7 +37,8 @@ yolo-v8-realtime-object-detection/
 
 ## 🖥 Demo
 
-![Real-Time Object Detection Demo](assets/demo.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/37a23c19-f664-4e5e-8f2b-14767a8121e3" />
+
 
 
 ## ⚙️ Installation & Setup
@@ -88,5 +89,6 @@ Computer Science Student
 ## 📄 License
 
 This project is open-source and available for educational and portfolio purposes.
+
 
 
