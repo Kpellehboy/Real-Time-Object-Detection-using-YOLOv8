@@ -1,13 +1,13 @@
 # Real-Time Object Detection using YOLOv8
 
-## 📌 Overview
+## Overview
 This project implements a real-time object detection system using **YOLOv8** and **OpenCV**.  
 It captures live video from a webcam, detects multiple objects in each frame, and displays bounding boxes with confidence scores in real time.
 
 The project focuses on simplicity, performance, and practical computer vision application using modern deep learning models.
 
 
-## 🚀 Features
+## Features
 - Real-time webcam-based object detection
 - YOLOv8 Nano model for fast inference on laptops
 - Detection of 80 COCO object classes (e.g., person, mobile phone, laptop, bottle)
@@ -16,14 +16,14 @@ The project focuses on simplicity, performance, and practical computer vision ap
 - Easy to run and extend
 
 
-## 🧠 Technologies Used
+## Technologies Used
 - Python  
 - Ultralytics YOLOv8  
 - OpenCV  
 - NumPy  
 
 
-## 📂 Project Structure
+## Project Structure
 
 yolo-v8-realtime-object-detection/
 │
@@ -35,43 +35,43 @@ yolo-v8-realtime-object-detection/
 └── .gitignore
 
 
-## 🖥 Demo
+## Demo
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/37a23c19-f664-4e5e-8f2b-14767a8121e3" />
 
 
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 
 https://github.com/Kpellehboy/Real-Time-Object-Detection-using-YOLOv8.git
 
 
-### 2️⃣ Install Dependencies
+### Install Dependencies
 
 pip install -r requirements.txt
 
-> ⚠️ The YOLOv8 model (`yolov8n.pt`) will be automatically downloaded on first run.
+> The YOLOv8 model (`yolov8n.pt`) will be automatically downloaded on first run.
 
 ## ▶️ How to Run
 
 python main.py
 
 
-## ⌨ Controls
+## Controls
 
 * Press **`q`** to quit the application
 
-## 📈 Performance Notes
+## Performance Notes
 
 * Uses YOLOv8 Nano for real-time performance on CPU
 * Inference speed may vary depending on hardware
 * Webcam resolution: `640×480` (default)
 
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * FPS counter for performance monitoring
 * Video file and IP camera support
@@ -80,13 +80,13 @@ python main.py
 * Docker containerization
 
 
-## 👤 Author
+## Author
 
 **Elijah M. Flomo**
 Computer Science Student
 
 
-## 📄 License
+## License
 
 This project is open-source and available for educational and portfolio purposes.
 
